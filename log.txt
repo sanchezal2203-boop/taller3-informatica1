@@ -1,0 +1,32 @@
+[2026-11-19 16:15:55] Estructura de carpetas verificada (data/txt, data/csv, data/json)
+[2026-11-19 16:15:55] Programa iniciado
+[2026-11-19 16:16:09] Generados 50 registros aleatorios
+[2026-11-19 16:16:09] Registros ordenados por frecuencia cardiaca
+[2026-11-19 16:17:27] Validación: 50 válidos, 0 inválidos
+[2026-11-19 16:17:40] Programa finalizado
+[2026-11-19 16:19:33] Estructura de carpetas verificada (data/txt, data/csv, data/json)
+[2026-11-19 16:19:33] Programa iniciado
+[2026-11-19 16:19:35] Generados 50 registros aleatorios
+[2026-11-19 16:19:35] Registros ordenados por frecuencia cardiaca
+[2026-11-19 16:19:37] Estructura de carpetas verificada (data/txt, data/csv, data/json)
+[2026-11-19 16:19:37] Guardado TXT: data\txt\datos.txt
+[2026-11-19 16:19:37] Estructura de carpetas verificada (data/txt, data/csv, data/json)
+[2026-11-19 16:19:37] Guardado CSV: data\csv\datos.csv
+[2026-11-19 16:22:56] Estructura de carpetas verificada (data/txt, data/csv, data/json)
+[2026-11-19 16:22:56] Exportado JSON: data\json\datos.json
+[2026-11-19 16:23:19] Importado JSON: data\json\datos.json (50 elementos)
+[2026-11-19 16:23:19] Registros ordenados por frecuencia cardiaca
+[2026-11-19 16:23:26] Validación: 50 válidos, 0 inválidos
+[2026-11-19 16:23:38] Programa finalizado
+[2026-11-19 17:10:09] Estructura de carpetas verificada (data/txt, data/csv, data/json)
+[2026-11-19 17:10:09] Programa iniciado
+[2026-11-19 17:10:14] Generados 50 registros aleatorios
+[2026-11-19 17:10:14] Registros ordenados por frecuencia cardiaca
+[2026-11-19 17:10:19] Conexión a MongoDB Atlas exitosa
+[2026-11-19 17:10:19] Validación: 50 válidos, 0 inválidos
+[2026-11-19 17:10:24] Insertados/actualizados 50 documentos en signos_vitales
+[2026-11-19 17:11:21] Estructura de carpetas verificada (data/txt, data/csv, data/json)
+[2026-11-19 17:11:21] Exportado JSON: data\json\resultados_mongo.json
+[2026-11-19 17:11:21] Consultas ejecutadas y exportadas a resultados_mongo.json
+[2026-11-19 17:11:49] Consulta por ID ID-001
+[2026-11-19 17:12:15] Programa finalizado
