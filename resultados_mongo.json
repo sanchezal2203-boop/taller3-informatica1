@@ -1,0 +1,212 @@
+{
+    "promedio_frecuencia_cardiaca": 90.64,
+    "spo2_menor_94": [
+        {
+            "id": "ID-009",
+            "fr": "33 Años",
+            "fc": "052ppm",
+            "spo2": "90%",
+            "fc_num": 52,
+            "spo2_num": 90,
+            "fr_num": 33
+        },
+        {
+            "id": "ID-043",
+            "fr": "85 Años",
+            "fc": "053ppm",
+            "spo2": "93%",
+            "fc_num": 53,
+            "spo2_num": 93,
+            "fr_num": 85
+        },
+        {
+            "id": "ID-015",
+            "fr": "86 Años",
+            "fc": "054ppm",
+            "spo2": "93%",
+            "fc_num": 54,
+            "spo2_num": 93,
+            "fr_num": 86
+        },
+        {
+            "id": "ID-029",
+            "fr": "86 Años",
+            "fc": "054ppm",
+            "spo2": "88%",
+            "fc_num": 54,
+            "spo2_num": 88,
+            "fr_num": 86
+        },
+        {
+            "id": "ID-044",
+            "fr": "51 Años",
+            "fc": "069ppm",
+            "spo2": "88%",
+            "fc_num": 69,
+            "spo2_num": 88,
+            "fr_num": 51
+        },
+        {
+            "id": "ID-037",
+            "fr": "27 Años",
+            "fc": "073ppm",
+            "spo2": "89%",
+            "fc_num": 73,
+            "spo2_num": 89,
+            "fr_num": 27
+        },
+        {
+            "id": "ID-008",
+            "fr": "83 Años",
+            "fc": "074ppm",
+            "spo2": "92%",
+            "fc_num": 74,
+            "spo2_num": 92,
+            "fr_num": 83
+        },
+        {
+            "id": "ID-045",
+            "fr": "83 Años",
+            "fc": "074ppm",
+            "spo2": "91%",
+            "fc_num": 74,
+            "spo2_num": 91,
+            "fr_num": 83
+        },
+        {
+            "id": "ID-025",
+            "fr": "65 Años",
+            "fc": "076ppm",
+            "spo2": "92%",
+            "fc_num": 76,
+            "spo2_num": 92,
+            "fr_num": 65
+        },
+        {
+            "id": "ID-007",
+            "fr": "69 Años",
+            "fc": "089ppm",
+            "spo2": "88%",
+            "fc_num": 89,
+            "spo2_num": 88,
+            "fr_num": 69
+        },
+        {
+            "id": "ID-021",
+            "fr": "64 Años",
+            "fc": "091ppm",
+            "spo2": "89%",
+            "fc_num": 91,
+            "spo2_num": 89,
+            "fr_num": 64
+        },
+        {
+            "id": "ID-014",
+            "fr": "32 Años",
+            "fc": "094ppm",
+            "spo2": "89%",
+            "fc_num": 94,
+            "spo2_num": 89,
+            "fr_num": 32
+        },
+        {
+            "id": "ID-028",
+            "fr": "82 Años",
+            "fc": "099ppm",
+            "spo2": "92%",
+            "fc_num": 99,
+            "spo2_num": 92,
+            "fr_num": 82
+        },
+        {
+            "id": "ID-031",
+            "fr": "41 Años",
+            "fc": "100ppm",
+            "spo2": "93%",
+            "fc_num": 100,
+            "spo2_num": 93,
+            "fr_num": 41
+        },
+        {
+            "id": "ID-030",
+            "fr": "84 Años",
+            "fc": "101ppm",
+            "spo2": "90%",
+            "fc_num": 101,
+            "spo2_num": 90,
+            "fr_num": 84
+        },
+        {
+            "id": "ID-041",
+            "fr": "68 Años",
+            "fc": "105ppm",
+            "spo2": "92%",
+            "fc_num": 105,
+            "spo2_num": 92,
+            "fr_num": 68
+        },
+        {
+            "id": "ID-024",
+            "fr": "56 Años",
+            "fc": "108ppm",
+            "spo2": "92%",
+            "fc_num": 108,
+            "spo2_num": 92,
+            "fr_num": 56
+        },
+        {
+            "id": "ID-038",
+            "fr": "79 Años",
+            "fc": "108ppm",
+            "spo2": "93%",
+            "fc_num": 108,
+            "spo2_num": 93,
+            "fr_num": 79
+        },
+        {
+            "id": "ID-032",
+            "fr": "65 Años",
+            "fc": "109ppm",
+            "spo2": "93%",
+            "fc_num": 109,
+            "spo2_num": 93,
+            "fr_num": 65
+        },
+        {
+            "id": "ID-002",
+            "fr": "54 Años",
+            "fc": "114ppm",
+            "spo2": "91%",
+            "fc_num": 114,
+            "spo2_num": 91,
+            "fr_num": 54
+        },
+        {
+            "id": "ID-019",
+            "fr": "51 Años",
+            "fc": "114ppm",
+            "spo2": "88%",
+            "fc_num": 114,
+            "spo2_num": 88,
+            "fr_num": 51
+        },
+        {
+            "id": "ID-003",
+            "fr": "90 Años",
+            "fc": "126ppm",
+            "spo2": "88%",
+            "fc_num": 126,
+            "spo2_num": 88,
+            "fr_num": 90
+        },
+        {
+            "id": "ID-022",
+            "fr": "53 Años",
+            "fc": "129ppm",
+            "spo2": "93%",
+            "fc_num": 129,
+            "spo2_num": 93,
+            "fr_num": 53
+        }
+    ]
+}
